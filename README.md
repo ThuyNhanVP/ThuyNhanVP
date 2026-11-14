@@ -15,10 +15,14 @@
 
 <h2>📊 GitHub Stats:</h2>
 
-![](https://github-readme-stats.shion.dev/api?username=ThuyNhanVP&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ThuyNhanVP&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ThuyNhanVP&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img height="150" alt="stats" src="https://github-readme-stats.shion.dev/api?username=ThuyNhanVP&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+  <img height="150" alt="languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ThuyNhanVP&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+</p>
 
+<p align="center">
+  <img height="150" alt="streak" src="https://streak-stats.demolab.com/?user=ThuyNhanVP&theme=dark&hide_border=false" />
+</p>
 <h3>✍️ Random Dev Quote</h3>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

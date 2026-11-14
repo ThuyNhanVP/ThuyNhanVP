@@ -5,9 +5,9 @@
 <br><br>
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/uFYzM9jD5X)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://web.facebook.com/thuy.nhan.619727/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lactroisoi@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C3FC9?style=flat-square&logo=githubpages&logoColor=white)](https://thuynhanvp.github.io)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/thuy.nhan.619727/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:2005thuynhan@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C3FC9?style=flat-square&logo=githubpages&logoColor=white)](https://thuynhanvp.github.io/thuynhan.github.io/)
 
 </div>
 

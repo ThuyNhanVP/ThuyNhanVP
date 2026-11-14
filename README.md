@@ -13,7 +13,7 @@
 
 <br>
 
-<h2 align="center">🧰 Tech Stack</h2>
+<h2 align="">🧰 Tech Stack</h2>
 
 <table align="center">
   <tr>
@@ -68,7 +68,7 @@
 
 <br>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="">📊 GitHub Stats</h2>
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.shion.dev/api?username=ThuyNhanVP&theme=radical&hide_border=true&include_all_commits=true&count_private=false" />

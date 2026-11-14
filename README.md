@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Thuỵ%20Nhân&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20(Intern)%20·%20PHP%20·%20Linux&descSize=18&descAlignY=58" width="100%" alt="header" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=IT+student+%40+HUBT+(2023+-+2027);Factory+automation+intern+%E2%80%94+C%23+%C2%B7+WinForms;Building+with+PHP+%2F+Laravel+%26+Linux" alt="typing" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Thuỵ%20Nhân&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20(Intern)&descSize=18&descAlignY=58" width="100%" alt="header" />
 
 <br><br>
 

@@ -1,35 +1,91 @@
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Caveat+Brush&size=42&color=FF4D6D&center=true&vCenter=true&width=550&height=60&repeat=false&lines=Hello!+I%27m+Thu%E1%BB%B5+Nh%C3%A2n" alt="Hello! I'm Thuỵ Nhân" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Thuỵ%20Nhân&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20(Intern)%20·%20PHP%20·%20Linux&descSize=18&descAlignY=58" width="100%" alt="header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=IT+student+%40+HUBT+(2023+-+2027);Factory+automation+intern+%E2%80%94+C%23+%C2%B7+WinForms;Building+with+PHP+%2F+Laravel+%26+Linux" alt="typing" />
+
+<br><br>
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/uFYzM9jD5X)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://web.facebook.com/thuy.nhan.619727/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lactroisoi@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C3FC9?style=flat-square&logo=githubpages&logoColor=white)](https://thuynhanvp.github.io)
+
+</div>
+
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Caveat+Brush&size=20&color=6C3FC9&center=true&vCenter=true&width=600&height=30&repeat=false&lines=Software+Developer+%28Intern%29+%C2%B7+PHP+%C2%B7+Linux" alt="Software Developer (Intern) · PHP · Linux" />
-</div>
 
-<h2>🌐 Socials:</h2>
+<h2 align="center">🧰 Tech Stack</h2>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/uFYzM9jD5X) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/thuy.nhan.619727/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lactroisoi@gmail.com)
+<table align="center">
+  <tr>
+    <td align="right"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/VB.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Database</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Server</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-<h2>💻 Tech Stack:</h2>
+<br>
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-<h2>📊 GitHub Stats:</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img height="150" alt="stats" src="https://github-readme-stats.shion.dev/api?username=ThuyNhanVP&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
-  <img height="150" alt="languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ThuyNhanVP&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img height="160" src="https://github-readme-stats.shion.dev/api?username=ThuyNhanVP&theme=radical&hide_border=true&include_all_commits=true&count_private=false" />
+  <img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ThuyNhanVP&theme=radical&hide_border=true&layout=compact" />
+</p>
+<p align="center">
+  <img height="150" src="https://streak-stats.demolab.com/?user=ThuyNhanVP&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="150" alt="streak" src="https://streak-stats.demolab.com/?user=ThuyNhanVP&theme=dark&hide_border=false" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
-<h3>✍️ Random Dev Quote</h3>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" alt="footer" />
 
----
-
-[![](https://komarev.com/ghpvc/?username=ThuyNhanVP&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
+<p align="center">
+  <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=ThuyNhanVP&icon=0&color=6C3FC9&style=flat-square" /></a>
+</p>

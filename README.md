@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Caveat+Brush&size=42&color=FF4D6D&center=true&vCenter=true&width=500&height=60&repeat=false&lines=Hello!+I%27m+Nh%C3%A2n" alt="Hello! I'm Thuỵ Nhân" />
+<img src="https://readme-typing-svg.demolab.com?font=Caveat+Brush&size=42&color=FF4D6D&center=true&vCenter=true&width=550&height=60&repeat=false&lines=Hello!+I%27m+Thu%E1%BB%B5+Nh%C3%A2n" alt="Hello! I'm Thuỵ Nhân" />
 <br>
 <img src="https://readme-typing-svg.demolab.com?font=Caveat+Brush&size=20&color=6C3FC9&center=true&vCenter=true&width=600&height=30&repeat=false&lines=Software+Developer+%28Intern%29+%C2%B7+PHP+%C2%B7+Linux" alt="Software Developer (Intern) · PHP · Linux" />
 </div>

@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Thuỵ%20Nhân&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20(Intern)&descSize=18&descAlignY=58" width="100%" alt="header" />
 
-<br><br>
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/uFYzM9jD5X)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/thuy.nhan.619727/)

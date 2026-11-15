@@ -3,9 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Thuỵ%20Nhân&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20(Intern)&descSize=18&descAlignY=58" width="100%" alt="header" />
 
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/uFYzM9jD5X)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/thuy.nhan.619727/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:2005thuynhan@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/u3b5GgpPGr)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6C3FC9?style=flat-square&logo=githubpages&logoColor=white)](https://thuynhanvp.github.io/thuynhan.github.io/)
 
 </div>
